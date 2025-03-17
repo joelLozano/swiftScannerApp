@@ -1,15 +1,14 @@
 # swiftScannerApp
 
-This proyect has a simple Screen in flutter
-to show the detail of the QR code.
+This project has a simple screen in Flutter to show the details of the QR code.
 
-Run project:
+## Run Project
 
+```sh
 flutter pub get
+```
 
-TODO:
+## TODO
 
-Implement the method channel
-to get the CODE from Swfit and show the screen
-
-Unit Test to verify that the functions that recivie and show the screen works.
+- Implement the method channel to get the code from Swift and show the screen.
+- Write unit tests to verify that the functions that receive and show the screen work.
